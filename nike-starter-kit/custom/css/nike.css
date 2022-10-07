@@ -1,0 +1,24 @@
+:root {
+    --main-color-1: black;
+    --main-color-2: yellow;
+    --main-color-3: white;
+    --main-color-4: gray;
+
+  }
+ 
+.colorIcon{
+  fill: var(--main-color-3);
+  
+  
+  
+}
+.couleur-logo{
+  fill: var(--main-color-3);
+  
+  
+  
+}
+
+
+
+
